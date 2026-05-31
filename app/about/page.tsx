@@ -3,7 +3,7 @@ export default function AboutPage() {
                     <section className="max-w-3xl mx-auto space-y-6">
                               <h2 className="text-4xl font-bold">About Me</h2>
                               <p>
-                                        I am <strong>M Bilal Khalid</strong>, a passionate Software Engineer skilled in
+                                        I am <strong>Abdul Wajid</strong>, a passionate Software Engineer skilled in
                                         Next.js, Node.js, SQL, and cloud technologies. I love building scalable,
                                         modern applications and exploring AI-powered tools.
                               </p>
