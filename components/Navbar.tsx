@@ -9,7 +9,7 @@ export default function Navbar() {
           return (
                     <nav className="bg-gray-900 text-white px-6 py-4 flex justify-between items-center sticky top-0 z-50">
                               <Link href="/" className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent">
-                                        M Bilal Khalid
+                                        Abdul Wajid
                               </Link>
 
                               <button
