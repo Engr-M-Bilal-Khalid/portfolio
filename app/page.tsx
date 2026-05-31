@@ -2,7 +2,7 @@ export default function HomePage() {
   return (
     <section className="text-center space-y-6">
       <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent">
-        M Bilal Khalid
+        Abdul Wajid
       </h1>
       <p className="text-xl">Software Engineer | Building Modern Web Experiences</p>
       <div className="space-x-4">
